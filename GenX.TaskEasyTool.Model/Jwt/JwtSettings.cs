@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace GenX.TaskEasyTool.Model.Jwt
 {
+    /// <summary>
+    /// 
+    /// 
+    /// </summary>
     public class JwtSettings
     {
         public string SecretKey { get; set; }
