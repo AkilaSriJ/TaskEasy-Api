@@ -1,0 +1,6 @@
+@GenX.TaskEasyTool.Api_HostAddress = http://localhost:5286
+
+GET {{GenX.TaskEasyTool.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
